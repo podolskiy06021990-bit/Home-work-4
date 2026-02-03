@@ -5,5 +5,3 @@ INSERT INTO public.imdb (genre,rating,runtime,film) VALUES
 	 ('history',8.0,140,'WW1'),
 	 ('comedy',6.0,60,'Gilmore'),
 	 ('fantasy',9.0,110,'Startrec'),
-
-
